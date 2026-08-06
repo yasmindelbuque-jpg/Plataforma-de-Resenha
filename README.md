@@ -10,6 +10,7 @@ Apresentar as ideias centrais da obra de forma rápida para economizar tempo de 
 Apresentar novas obras de interesse para o usuario.
 
 Descrição:
-O projeto Plataforma de Resenha visa em oferecer formas de avaliar e exibir livros de interesse, ele tem como público alvo estudantes do ensino Médio, onde ele contará com um sistema de avaliação que terá entre uma a cinco estrelas, 
+O projeto Plataforma de Resenha visa em oferecer formas de avaliar e exibir livros de interesse para os estudantes, ele permitirá que os usuarios possam interagir com outras resenhas e criará uma media de nota para a obra. 
 
 Persona:
+
