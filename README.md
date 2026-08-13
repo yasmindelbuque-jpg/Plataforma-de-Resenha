@@ -14,5 +14,8 @@ O projeto Plataforma de Resenha visa em oferecer formas de avaliar e exibir livr
 
 Persona:
 Uma garota chamada Isabela, que tem 18 anos, e gosta de ler livros e ouvir música enquanto lê e imagina coisas em livros, não gosta de livros que tenha desenhos. Ela achou uma plataforma que tem livros que não tem páginas com desenhos, se ela ir na aba de pesquisa ela acha esses livros rápido e prático sem perder muito tempo. 
-Nessa plataforma que ajuda os jovens ficarem mais endereçados a ler mais livros, chama sua atenção sem muita persistência de começar a ler livros que não interessa. 
 
+
+
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_dkmz02dkmz02dkmz (2)" src="https://github.com/user-attachments/assets/50e567e9-8f8a-49b7-88cc-05b3d6d6e168" />
