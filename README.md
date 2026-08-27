@@ -23,5 +23,9 @@ Uma garota chamada Isabela, que tem 18 anos, e gosta de ler livros e ouvir músi
 Wireframe
 <img width="1024" height="691" alt="image" src="https://github.com/user-attachments/assets/f9a98dad-332f-4025-ad63-f17ee0b673ec" />
 
-Design da tela inicial:
-<img width="1366" height="768" alt="home" src="https://github.com/user-attachments/assets/5c44bf63-2bb1-4551-acc0-c657223d31ba" />
+Design:
+<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/72552338-588f-4a33-8b2a-0787982ef452" />
+<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/65035914-4b75-49a4-b602-b92fc0a27e9f" />
+<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/45116dfa-ae50-4b1e-a17e-499934ee71da" />
+<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/bee69fce-6816-42eb-9f4c-c589d6c7a89c" />
+
