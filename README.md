@@ -25,7 +25,8 @@ Wireframe
 
 Design:
 <img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/72552338-588f-4a33-8b2a-0787982ef452" />
-<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/65035914-4b75-49a4-b602-b92fc0a27e9f" />
-<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/45116dfa-ae50-4b1e-a17e-499934ee71da" />
-<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/bee69fce-6816-42eb-9f4c-c589d6c7a89c" />
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/1ccd272f-b645-4bbb-82b4-ac25a9feac5d" />
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/2b78c579-3eb9-4e42-850e-274da0843790" />
+<img width="1366" height="1536" alt="4" src="https://github.com/user-attachments/assets/c8eca7f1-b58d-45f1-8257-864cb69a4833" />
+
 
