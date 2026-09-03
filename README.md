@@ -36,12 +36,13 @@ Design:
 <img width="1366" height="768" alt="home (10)" src="https://github.com/user-attachments/assets/87f026d2-bb56-44b8-a8df-310952380552" />
 
 
+<img width="609" height="526" alt="image" src="https://github.com/user-attachments/assets/7cd3059d-bbff-4d8a-9f1e-b5f64b5e653b" />
 
 
 
 
 
-<img width="1319" height="961" alt="image" src="https://github.com/user-attachments/assets/87e327f3-f0d1-4590-890a-78e982512441" />
+
 
 O ESTADO DA ARTE: RESENHA DE LIVROS.
 Para fazer esse trabalho sobre resenha de livros, eu fui dar uma pesquisada no que o pessoal ja escreveu sobre esse assunto nos ultimo anos. Eu queria entender de vdd como as resenhas mudaram e qual que é a importancia delas hoje em dia. Pesquisando tudo, eu vi que esse assunto se divide em dois lado bem claro. De um lado, tem quem estuda as resenhas mais tradicional e escrita. Por exemplo, num estudo da Motta-Roth, ela diz que a resenha de livro é uma ferramenta super importante pra ajudar a organizar as informações e fazer a gente decidir o que vale a pena ler ou ignorar, pq ela poupa muito tempo de leitura da gente.Por outro lado, tem uma galera bem focada em estudar as resenhas que bombam na internet hoje, tipo no TikTok ou no Instagram. hoje em dia são videos rapidos que funcionam como uma validação social da leitura entre os jovens, tendo o poder de fazer o livro virar febre e esgotar nas livrarias num piscar de olhos. Juntando tudo isso, eu percebi que quase todo mundo só fala de como a resenha ajuda a vender ou a escolher o que ler, mas quase ninguem estuda se essas resenhas da internet são realmente sinceras ou se são só propaganda. É bem ai que o meu trabalho entra pra tentar explicar o que ainda não foi muito falado, os vídeos rápidos ajudam os jovens de 17 anos a tomarem gosto pela leitura de livros que antes eles achavam chatos
