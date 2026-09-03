@@ -24,10 +24,10 @@ Wireframe
 <img width="1024" height="691" alt="image" src="https://github.com/user-attachments/assets/f9a98dad-332f-4025-ad63-f17ee0b673ec" />
 
 Design:
-<img width="1366" height="1536" alt="1" src="https://github.com/user-attachments/assets/72552338-588f-4a33-8b2a-0787982ef452" />
-<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/1ccd272f-b645-4bbb-82b4-ac25a9feac5d" />
-<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/2b78c579-3eb9-4e42-850e-274da0843790" />
-<img width="1366" height="1536" alt="4" src="https://github.com/user-attachments/assets/c8eca7f1-b58d-45f1-8257-864cb69a4833" />
+<img width="1366" height="1536" alt="home (1)" src="https://github.com/user-attachments/assets/913c7e65-5051-4613-b1c4-09223c2e89d7" />
+<img width="1366" height="768" alt="home (2)" src="https://github.com/user-attachments/assets/e6e220ec-5d26-47e0-82e0-ef370d1916a4" />
+<img width="1366" height="768" alt="home (3)" src="https://github.com/user-attachments/assets/fefa3a75-4bea-4624-a485-4940c9530542" />
+
 
 
 
