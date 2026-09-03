@@ -39,4 +39,5 @@ Para fazer esse trabalho sobre resenha de livros, eu fui dar uma pesquisada no q
 
  LINKS:
 https://reglab.com.br/pesquisa-booktok-brasil/
+
 https://www.scielo.br/j/ld/a/XSJLyNCpxpVJNn5hnJssCzC/?lang=pt
