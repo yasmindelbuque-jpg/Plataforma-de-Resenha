@@ -27,6 +27,16 @@ Design:
 <img width="1366" height="1536" alt="home (1)" src="https://github.com/user-attachments/assets/913c7e65-5051-4613-b1c4-09223c2e89d7" />
 <img width="1366" height="768" alt="home (2)" src="https://github.com/user-attachments/assets/e6e220ec-5d26-47e0-82e0-ef370d1916a4" />
 <img width="1366" height="768" alt="home (3)" src="https://github.com/user-attachments/assets/fefa3a75-4bea-4624-a485-4940c9530542" />
+<img width="1366" height="3840" alt="home (4)" src="https://github.com/user-attachments/assets/1068a3cf-5023-4ac3-b07c-972e66d5aa1d" />
+<img width="1366" height="768" alt="home (5)" src="https://github.com/user-attachments/assets/39934cd8-7d34-4701-ad91-f3a262fdea30" />
+<img width="1366" height="2304" alt="home (6)" src="https://github.com/user-attachments/assets/2516b3c2-9b18-4ae5-8f57-efdcf7580fba" />
+<img width="1366" height="768" alt="home (7)" src="https://github.com/user-attachments/assets/24a56683-64ec-4c01-8d92-15314ff05678" />
+<img width="1366" height="768" alt="home (8)" src="https://github.com/user-attachments/assets/95ecda00-347d-4397-976c-6c78508f61fc" />
+<img width="1366" height="768" alt="home (9)" src="https://github.com/user-attachments/assets/0a4078d3-996d-41f5-b31d-b0dd6c95372c" />
+<img width="1366" height="768" alt="home (10)" src="https://github.com/user-attachments/assets/87f026d2-bb56-44b8-a8df-310952380552" />
+
+
+
 
 
 
