@@ -40,11 +40,7 @@ Design:
 <img width="1366" height="768" alt="home (14)" src="https://github.com/user-attachments/assets/421f261f-b764-44be-80f1-9d72ac0ec1bc" />
 
 
-
-
-
-<img width="638" height="550" alt="image" src="https://github.com/user-attachments/assets/22883725-5ede-4d41-810d-93877ca9b821" />
-
+<img width="645" height="551" alt="image" src="https://github.com/user-attachments/assets/69c0e9d6-ca2b-41de-af91-96886a8fd714" />
 
 
 
