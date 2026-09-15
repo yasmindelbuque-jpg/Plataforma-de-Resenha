@@ -1,4 +1,4 @@
-# Plataforma-de-Resenha
+# Crítika
 
 Objetivos:
 Possibilitar a efetuação de resenhas para avaliar obras literarias e autores;
@@ -10,7 +10,7 @@ Apresentar as ideias centrais da obra de forma rápida para economizar tempo de 
 Apresentar novas obras de interesse para o usuario.
 
 Descrição:
-O projeto Plataforma de Resenha visa em oferecer formas de avaliar e exibir livros de interesse para os estudantes, ele permitirá que os usuarios possam interagir com outras resenhas e criará uma media de nota para a obra. 
+O projeto Crítika visa em oferecer formas de avaliar e exibir livros de interesse para os estudantes, ele permitirá que os usuarios possam interagir com outras resenhas e criará uma media de nota para a obra. 
 
 Persona:
 Uma garota chamada Isabela, que tem 18 anos, gosta de ler livros, ouvir música enquanto lê e imagina coisas em livros, não gosta de livros que tenha desenhos. Ela achou uma plataforma que tem livros que não tem páginas com desenhos, se ela ir na aba de pesquisa ela acha esses livros rápido e prático sem perder muito tempo. 
