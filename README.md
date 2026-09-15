@@ -43,9 +43,7 @@ Design:
 
 
 
-
-<img width="609" height="526" alt="image" src="https://github.com/user-attachments/assets/7cd3059d-bbff-4d8a-9f1e-b5f64b5e653b" />
-
+<img width="638" height="550" alt="image" src="https://github.com/user-attachments/assets/22883725-5ede-4d41-810d-93877ca9b821" />
 
 
 
