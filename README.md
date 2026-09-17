@@ -20,10 +20,10 @@ Uma garota chamada Isabela, que tem 18 anos, gosta de ler livros, ouvir música 
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_dkmz02dkmz02dkmz (2)" src="https://github.com/user-attachments/assets/50e567e9-8f8a-49b7-88cc-05b3d6d6e168" />
 
-Wireframe
+#Wireframe:
 <img width="1024" height="691" alt="image" src="https://github.com/user-attachments/assets/f9a98dad-332f-4025-ad63-f17ee0b673ec" />
 
-Design:
+#Design:
 <img width="1366" height="2304" alt="home (11)" src="https://github.com/user-attachments/assets/d976982d-a5cb-4047-9bc5-3b1def501ae5" />
 <img width="1366" height="768" alt="home (1)" src="https://github.com/user-attachments/assets/9058d3cf-9bbf-46fc-ac8b-79cddf44a912" />
 <img width="1366" height="1536" alt="home (2)" src="https://github.com/user-attachments/assets/8bf2c7c5-02e1-4b5f-a94d-08c9fd9ba556" />
@@ -40,10 +40,11 @@ Design:
 <img width="1366" height="768" alt="home (14)" src="https://github.com/user-attachments/assets/421f261f-b764-44be-80f1-9d72ac0ec1bc" />
 
 
+#Pagina de configurações:
+<img width="633" height="917" alt="image" src="https://github.com/user-attachments/assets/eaa9045d-162a-45f4-bc76-694bce1c845e" />
+
+#Planilha:
 <img width="645" height="551" alt="image" src="https://github.com/user-attachments/assets/69c0e9d6-ca2b-41de-af91-96886a8fd714" />
-
-
-
 
 
 O ESTADO DA ARTE: RESENHA DE LIVROS.
