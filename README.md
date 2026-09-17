@@ -56,6 +56,15 @@ O ESTADO DA ARTE: RESENHA DE LIVROS.
 Para fazer esse trabalho sobre resenha de livros, eu fui dar uma pesquisada no que o pessoal ja escreveu sobre esse assunto nos ultimo anos. Eu queria entender de vdd como as resenhas mudaram e qual que é a importancia delas hoje em dia. Pesquisando tudo, eu vi que esse assunto se divide em dois lado bem claro. De um lado, tem quem estuda as resenhas mais tradicional e escrita. Por exemplo, num estudo da Motta-Roth, ela diz que a resenha de livro é uma ferramenta super importante pra ajudar a organizar as informações e fazer a gente decidir o que vale a pena ler ou ignorar, pq ela poupa muito tempo de leitura da gente.Por outro lado, tem uma galera bem focada em estudar as resenhas que bombam na internet hoje, tipo no TikTok ou no Instagram. hoje em dia são videos rapidos que funcionam como uma validação social da leitura entre os jovens, tendo o poder de fazer o livro virar febre e esgotar nas livrarias num piscar de olhos. Juntando tudo isso, percebi que quase todo mundo só fala de como a resenha ajuda a vender ou a escolher o que ler, mas quase ninguem estuda se essas resenhas da internet são realmente sinceras ou se são só propaganda. É bem ai que o meu trabalho entra pra tentar explicar o que ainda não foi muito falado, os vídeos rápidos ajudam os jovens a tomarem gosto pela leitura de livros que antes eles achavam chatos.
 
 
+<img width="1663" height="845" alt="image" src="https://github.com/user-attachments/assets/1a18439b-f5e6-4d96-a29a-5cbc86dd16a3" />
+
+
+<img width="670" height="562" alt="image" src="https://github.com/user-attachments/assets/8e302b7e-126e-4678-a557-f96d3b082911" />
+
+
+<img width="385" height="137" alt="image" src="https://github.com/user-attachments/assets/f5178a4b-e86c-483e-8946-d883456867f5" />
+
+
  LINKS:
  
 https://reglab.com.br/pesquisa-booktok-brasil/
