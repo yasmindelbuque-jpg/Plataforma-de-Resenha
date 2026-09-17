@@ -41,10 +41,15 @@ Uma garota chamada Isabela, que tem 18 anos, gosta de ler livros, ouvir música 
 
 
 #Pagina de configurações:
+html
 <img width="633" height="917" alt="image" src="https://github.com/user-attachments/assets/eaa9045d-162a-45f4-bc76-694bce1c845e" />
+css
+<img width="413" height="543" alt="image" src="https://github.com/user-attachments/assets/ea34ae06-a0de-4e81-9128-43ddd89defcd" />
+
 
 #Planilha:
-<img width="645" height="551" alt="image" src="https://github.com/user-attachments/assets/69c0e9d6-ca2b-41de-af91-96886a8fd714" />
+<img width="641" height="613" alt="image" src="https://github.com/user-attachments/assets/ad81d6c1-4518-42f6-addb-9cf23198bf48" />
+
 
 
 O ESTADO DA ARTE: RESENHA DE LIVROS.
