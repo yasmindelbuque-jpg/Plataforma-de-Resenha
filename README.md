@@ -48,7 +48,8 @@ css
 
 
 #Planilha:
-<img width="641" height="613" alt="image" src="https://github.com/user-attachments/assets/ad81d6c1-4518-42f6-addb-9cf23198bf48" />
+<img width="640" height="673" alt="image" src="https://github.com/user-attachments/assets/b7aacd74-9799-463d-a1d1-d86372dde2dd" />
+
 
 #pagina de criação de resenha:
 <img width="925" height="926" alt="image" src="https://github.com/user-attachments/assets/4c712376-1f75-4e20-8bb6-fbb06d4bbaeb" />
