@@ -68,6 +68,8 @@ Para fazer esse trabalho sobre resenha de livros, eu fui dar uma pesquisada no q
 <img width="385" height="137" alt="image" src="https://github.com/user-attachments/assets/f5178a4b-e86c-483e-8946-d883456867f5" />
 <img width="643" height="677" alt="image" src="https://github.com/user-attachments/assets/065cfade-36e9-48d7-af12-2dc66881c6e9" />
 <img width="638" height="213" alt="image" src="https://github.com/user-attachments/assets/f0c7b092-e94a-47bb-af84-8a05e9b774e2" />
+<img width="637" height="84" alt="image" src="https://github.com/user-attachments/assets/9f85cc22-b73a-4d98-ae32-5504c74067f4" />
+
 
 
 
