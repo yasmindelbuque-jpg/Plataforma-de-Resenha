@@ -21,7 +21,8 @@ Uma garota chamada Isabela, que tem 18 anos, gosta de ler livros, ouvir música 
 <img width="1408" height="768" alt="Gemini_Generated_Image_dkmz02dkmz02dkmz (2)" src="https://github.com/user-attachments/assets/50e567e9-8f8a-49b7-88cc-05b3d6d6e168" />
 
 #Wireframe:
-<img width="1024" height="691" alt="image" src="https://github.com/user-attachments/assets/f9a98dad-332f-4025-ad63-f17ee0b673ec" />
+<img width="1920" height="1080" alt="WIN_20261022_16_53_00_Pro" src="https://github.com/user-attachments/assets/1bc1d315-a7aa-4f7a-9761-16909e1a4391" />
+
 
 #Design:
 <img width="1366" height="2304" alt="home (11)" src="https://github.com/user-attachments/assets/d976982d-a5cb-4047-9bc5-3b1def501ae5" />
