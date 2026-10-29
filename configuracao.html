@@ -1,0 +1,116 @@
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crítika - Configurações</title>
+    <link rel="stylesheet" href="css/configuracao.css">
+</head>
+
+<body>
+    <aside class="barraDeNavegacao">
+        <h1>Configurações</h1>
+        <nav>
+            <a href="#senha">Alterar senha</a>
+            <a href="#tema">Alterar tema</a>
+            <a href="#idioma">Idioma</a>
+            <a href="#notificacoes">Notificações</a>
+        </nav>
+    </aside>
+
+    <a href="#"><img class="voltar" src="imgs/letra-x.png" alt="voltar página"></a>
+
+    <main class="principal">
+
+
+        <!-- Grupo de Preferências / Conta -->
+        <section class="caixaUm">
+
+            <!-- Alterar Senha -->
+            <div class="senha">
+                <form>
+                    <h2>Alterar senha</h2>
+                    <section id="atualSenha">
+                        <label for="senhaAtual">Senha atual</label>
+                        <input type="password" id="senhaAtual" name="senhaAtual" minlength="8" required>
+                    </section>
+
+                    <section id="senhaNova">
+                        <label for="novaSenha">Nova senha</label>
+                        <input type="password" id="novaSenha" name="novaSenha" minlength="8" required>
+                    </section>
+
+                    <section id="senhaConfirma">
+                        <label for="confirmarSenha">Confirmar senha</label>
+                        <input type="password" id="confirmarSenha" name="confirmarSenha" minlength="8" required>
+                    </section>
+
+                    <button type="submit">Salvar Nova Senha</button>
+                </form>
+            </div>
+
+            <!-- Alterar Tema -->
+            <div class="tema">
+
+                <form>
+                    <h2>Alterar tema</h2>
+                    <label for="temaClaro">
+                        <input type="radio" id="temaClaro" name="tema" value="claro"> Tema claro
+                    </label>
+                    <label for="temaEscuro">
+                        <input type="radio" id="temaEscuro" name="tema" value="escuro"> Tema escuro
+                    </label>
+                </form>
+            </div>
+
+            <!-- Alterar Idioma -->
+            <div class="idioma">
+
+                <form>
+                    <h2>Alterar idioma</h2>
+                    <label for="labelIdioma">Selecione o idioma</label>
+                    <select id="selectIdioma" name="idioma">
+                        <option value="pt-br">Português</option>
+                        <option value="es">Español</option>
+                        <option value="en">English</option>
+                    </select>
+                </form>
+            </div>
+
+        </section>
+
+        <!-- Painel de Notificações -->
+        <section class="caixaDois" id="notificacoes">
+
+            <h2>Notificações</h2>
+
+            <article class="card-notificacao">
+                <img src="imgs/fotoPerfil.png" alt="Foto de perfil do usuário">
+                <h3>Nome de usuário</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
+                    ut labore et dolore magna aliqua.</p>
+            </article>
+
+            <article class="card-notificacao">
+                <img src="imgs/fotoPerfil.png" alt="Foto de perfil do usuário">
+                <h3>Nome de usuário</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
+                    ut labore et dolore magna aliqua.</p>
+            </article>
+
+            <article class="card-notificacao">
+                <img src="imgs/fotoPerfil.png" alt="Foto de perfil do usuário">
+                <h3>Nome de usuário</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt
+                    ut labore et dolore magna aliqua.</p>
+            </article>
+
+        </section>
+
+
+    </main>
+</body>
+
+</html>

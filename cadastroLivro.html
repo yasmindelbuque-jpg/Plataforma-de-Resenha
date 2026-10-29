@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Livro</title>
+    <link rel="stylesheet" href="css/cadastroLivro.css">
+</head>
+
+<body>
+    <img class="criar" src="imgs/criar.png" alt="">
+    <a href="cadastro_e_resenhas_de_livros/">
+        <img class="voltar" src="imgs/letra-x.png" alt="voltar página">
+    </a>
+    <div class="cadastro">
+    <form>
+        <label for="isbn"></label>
+        <input type="text" id="isbn" placeholder="Adicione o ISBN" required >
+
+        <label for="nomeLivro"></label>
+        <input type="text" id="nomeLivro" placeholder="Nome do livro" required>
+
+        <label for="autor"></label>
+        <input type="text" id="autor" placeholder="Autor(res) do livro" required>
+
+        <label for="editora"></label>
+        <input type="text" id="isbn" placeholder="Editora" required>
+
+        <label for="genero"></label>
+        <input type="text" id="genero" placeholder="Gênero" required>
+
+        <label for="imagem" class="imagem"></label>
+        <input type="file" id="imagem" placeholder="Adicione a capa do livro">
+
+        <button type="submit">Publicar</button>
+    </form>
+
+    </div>
+
+</body>
+
+</html>
