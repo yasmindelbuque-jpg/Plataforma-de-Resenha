@@ -1,0 +1,231 @@
+/*começo da pagina de perfil de usuario.*/
+* {
+    font-family: Arial, sans-serif;
+    background-color: #d8b4fe;
+    margin: 0px;
+    padding: 0px;
+    color: #361a1a;
+
+}
+
+.perfil-container {
+
+    margin: 0 auto;
+    position: relative;
+}
+
+.voltar {
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top: 35px;
+    right: 35px;
+}
+
+.perfil-header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 25px;
+}
+
+.fotoperfil {
+    margin-top: 90px;
+    margin-bottom: 60px;
+    height: 300px;
+    width: 300px;
+}
+
+.avatar {
+    width: 90px;
+    height: 90px;
+
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+}
+
+.perfil-info {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.perfil-info img {
+    width: 20px;
+    height: 20px;
+    margin-left: 5px;
+}
+
+.campo-editavel {
+    margin: 0;
+
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.btn-editar {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.btn-privado {
+
+    padding: 6px 12px;
+    border-radius: 15px;
+    font-size: 13px;
+    width: fit-content;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.secao-livros {
+    background-color: #e2cdf8;
+    padding: 15px 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccaeec;
+}
+
+.secao-livros h3 {
+    margin-top: 0;
+    background-color: #e2cdf8;
+    margin-bottom: 12px;
+    color: #3d265f;
+}
+
+.grid-livros {
+    display: flex;
+    background-color: #e2cdf8;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.card-livro {
+    width: 100px;
+
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    background-image: url(../imgs/fundo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    height: 150px;
+    width: 150px;
+}
+
+.capa-placeholder {
+    width: 100%;
+    height: 100px;
+    background-color: hsl(0, 0%, 99%);
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+.card-livro p {
+    margin: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.secao-resenhas {
+
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.secao-resenhas h3 {
+    margin-top: 0;
+
+    margin-bottom: 15px;
+    text-align: center;
+    color: #4c1d95;
+
+}
+
+.secao-resenhas h4 {
+    background-color: #e7d2fd;
+}
+
+.card-resenha {
+    background-color: #e7d2fd;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.resenha-topo {
+    display: flex;
+    background-color: #e7d2fd;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.resenha-topo h4 {
+    margin: 0;
+
+    font-size: 18px;
+    color: #3b0764;
+}
+
+.badge-spoilers {
+    background-color: #fef08a;
+    color: #854d0e;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.texto-resenha {
+    font-size: 13px;
+    line-height: 1.4;
+    background-color: #e7d2fd;
+    margin-bottom: 12px;
+}
+
+.resenha-rodape {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    background-color: #e7d2fd;
+    font-size: 12px;
+    color: #581c87;
+}
+
+.interacoes {
+    display: flex;
+    gap: 10px;
+    background-color: #e7d2fd;
+    margin-left: auto;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+
+}
+
+.interacao {
+    background-color: #e7d2fd;
+}
+
+.avaliacao {
+    background-color: #e7d2fd;
+}
+
+/*fim da pagina de perfil do usuario.*/

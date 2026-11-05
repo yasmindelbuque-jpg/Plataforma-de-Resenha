@@ -1,0 +1,229 @@
+
+
+
+/*começo da pagina de inicio.*/
+body {
+    background-color: #e2ccff; 
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.topo-pagina {
+    text-align: center;
+    padding-top: 40px;
+}
+.imagem-gato {
+    width: 400px;
+    height: auto;
+    margin-bottom: 35px;
+}
+.topo-pagina h1 {
+    color: #3b1d66;
+    font-size: 65px;
+    margin: 0;
+    margin-bottom: 40px;
+}
+.introducao {
+    max-width: 800px;
+    text-align: center;
+    color: #3b1d66;
+    line-height: 1.6;
+    padding: 50px;
+
+}
+.carrossel-secao {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+.carrossel-container {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    gap: 15px;
+}
+
+.card {
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    width: 240px;
+
+}
+
+.capa-livro {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.card p {
+    
+    font-size: 13px;
+    font-weight: bold;
+    color: #3b1d66;
+    text-align: center;
+}
+.maior {
+    transform: scale(1.2);
+    margin-top: -20px;
+    z-index: 3;
+}
+
+.medio {
+    transform: scale(1.0);
+    margin-top: 10px;
+    z-index: 2;
+}
+
+.menor {
+    transform: scale(0.95);
+    margin-top: 20px;
+    z-index: 1;
+}
+
+
+.carrossel-container {
+    display: flex;         
+    flex-direction: row;   
+    align-items: center;  
+    justify-content: center; 
+    gap: 20px;            
+    width: 100%;
+}
+.card p {
+    margin: 15px 0 5px 0; 
+    font-size: 13px;
+    font-weight: bold;
+    color: #3b1d66;
+    text-align: center;
+}
+.bloco-inferior {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 60px;
+    max-width: 900px;
+    width: 100%;
+    padding: 40px 20px;
+}
+
+.coluna-texto-inferior {
+    flex: 1;
+    max-width: 450px;
+}
+
+.coluna-texto-inferior h2 {
+    color: #3b1d66;
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.coluna-texto-inferior p {
+    color: #3b1d66;
+    line-height: 1.6;
+    margin: 0;
+}
+.formulario {
+    background-color: #d7b2ff;
+    padding: 30px;
+    border-radius: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+.avatar-usuario {
+
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: #b385f0;
+}
+
+.formulario input {
+    width: 100%;
+    padding: 12px 18px;
+    background-color: #d7b2ff;
+    border: 2px solid #af86e4;
+    border-radius: 25px; 
+    box-sizing: border-box;
+    outline: none;
+}
+
+.formulario button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    background-color: #b277fa;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.criar-conta {
+    color: #b076df;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+.rodape-pagina {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 40px 20px;
+    font-size: 14px;
+    color: #624f9e;
+    border-top: 1px solid #b385f0;
+    margin-top: 20px;
+}
+.card:hover {
+    background-color: #c49eff; 
+    border-color: #9c5ee9;     
+    cursor: pointer;           
+    transition: all 0.3s ease;
+}
+.formulario button:hover {
+    background-color: #956af8; 
+    transform: scale(1.03);    
+    transition: all 0.2s ease;
+}
+.formulario input:hover {
+    border-color: #ae78f0;    
+    background-color: #e8ccff; 
+}
+a:hover {
+    color: #844eff;            
+    text-decoration: underline;
+}
+.rodape a {
+    color: #7c4dff;
+    text-decoration: none;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.sobrepor {
+  display: block;
+  margin-top: -50px;
+  text-align: center;
+  font-size: 25px;
+}
+/*fim da pagina de inicio.*/

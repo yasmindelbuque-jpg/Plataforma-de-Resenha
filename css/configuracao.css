@@ -1,0 +1,140 @@
+/*css da aba de configurações*/
+body {
+   background-color: #edd8ff;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.voltar {
+   width: 30px;
+   height: auto;
+   position: fixed;
+   top: 35px;
+   z-index: 1000;
+   right: 35px;
+}
+
+a:hover{
+   color:#c794f3;
+}
+
+aside {
+   width: 250px;
+   height: 100vh;
+   position: fixed;
+   left: 0;
+   top: 0;
+   padding: 30px;
+   background-color: #f6e9ff;
+   text-align: left;
+}
+
+
+nav {
+   display: flex;
+   flex-direction: column;
+   gap: 30px;
+   color: #3e2866;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 20px;
+}
+
+a {
+   color: #3e2866;
+   text-decoration: none;
+}
+
+
+form {
+   background-color: #f6e9ff;
+   gap: 15px;
+   border-radius: 10px;
+   width: 600px;
+}
+#temaEscuro{
+   margin-bottom: 20px;
+}
+
+#selectIdioma {
+   background-color: #e3c3ff;
+   outline: none;
+   width: calc(100% - 50px);
+   margin-left: 25px;
+   border: none;
+   margin-top: 5px;
+   margin-bottom: 20px;
+   
+}
+
+h2 {
+   color: #3e2866;
+   padding: 15px 25px 3px;
+   font-size: 25px;
+}
+
+
+#senhaAtual,
+#novaSenha,
+#confirmarSenha {
+   border-radius: 5px;
+   border: none;
+   margin-left: 25px;
+   background-color: #edd8ff;
+   width: calc(100% - 50px);
+   color: #3e2866;
+   font-family: 'Courier New';
+   font-size: 30px;
+   margin-bottom: 20px;
+}
+
+.principal {
+   display: flex;
+   gap: 40px;
+   margin-left: 350px;
+}
+
+
+button {
+   border: none;
+   color: #3e2866;
+   background-color: #edd8ff;
+   margin-bottom: 25px;
+   margin-left: 25px;
+   width: 150px;
+   border-radius: 5px;
+}
+
+
+button:hover {
+   background-color: rgb(255, 241, 161);
+   color: rgb(94, 64, 0);
+}
+
+
+label {
+   display: block;
+   color: #3e2866;
+   margin-top: 1rem;
+   margin-left: 25px;
+}
+
+
+input[type="radio"] {
+   accent-color: #3e2866;
+}
+
+.caixaUm {
+   width: 600px;
+   height: 100%;
+
+}
+
+.caixaDois {
+   background-color: #f6e9ff;
+   color: #3e2866;
+   padding-left: 20px;
+   margin-top: 20px;
+   border-radius: 10px;
+   width: 500px;
+   height: 700px;
+}
+/*fim - css da aba de configurações*/

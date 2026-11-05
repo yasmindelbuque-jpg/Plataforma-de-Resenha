@@ -1,0 +1,76 @@
+body {
+    background-color: #edd8ff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.voltar {
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top: 35px;
+    right: 35px;
+}
+
+.criar {
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+}
+
+form {
+    width: 1000px;
+    height: 500px;
+    background-color: #d8aaff;
+    padding: 30px;
+    margin: 40px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+input {
+    background-color: #edd8ff;
+    border-radius: 10px;
+    border: none;
+    padding: 20px;
+    width: 95%;
+    margin: 0;
+    margin-bottom: 15px;
+    color: #b271eb;
+    font-size: 17px;
+    font-weight: bold;
+}
+input:focus{
+    border-color: #d8aaff;
+}
+
+::placeholder {
+    color: #b271eb;
+    font-weight: bold;
+}
+
+button {
+    border: none;
+    background-color: #edd8ff;
+    border-radius: 5px;
+    width: 100px;
+    font-size: 17px;
+    justify-content: center;
+    height: 50px;
+    font-weight: bold;
+    color: #b271eb;
+    margin: auto;
+    display: block;
+
+}
+
+button:hover {
+    border: none;
+    background-color: #e4cbfa;
+    border-radius: 5px;
+
+}
+
+/*fim da pagina de cadastro de livro*/
